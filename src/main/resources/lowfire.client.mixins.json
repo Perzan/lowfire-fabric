@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "me.perzan.fabric.lowfire.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+    ],
+    "client": [
+      "FireRenderMixin"
+    ],
+    "injectors": {
+      "defaultRequire": 1
+    }
+  }
